@@ -99,6 +99,11 @@ a{
     margin-left: 10px;
 }
 
-.shared-btn{
+.share-btn{
     margin-left: 0.7rem;
+}
+
+.action-container{
+    display: flex;
+    margin: 1rem 0;
 }
