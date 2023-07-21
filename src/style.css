@@ -93,3 +93,9 @@ a{
     font-weight: 500;
     flex: 1;
 }
+
+.btn img{
+    width: 20px;
+    margin-left: 10px;
+
+}
