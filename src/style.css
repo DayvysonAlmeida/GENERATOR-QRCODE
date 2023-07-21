@@ -43,3 +43,8 @@ a{
     color: #fff;
     outline: none;
 }
+
+.rq-text::placeholder{
+    color: #8b92b7;
+    font-weight: 500;
+}
