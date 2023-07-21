@@ -44,7 +44,17 @@ a{
     outline: none;
 }
 
-.rq-text::placeholder{
+.qr-text::placeholder{
     color: #8b92b7;
     font-weight: 500;
 }
+
+#qr-text{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #414866;
+}
+
