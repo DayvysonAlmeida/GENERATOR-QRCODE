@@ -97,5 +97,8 @@ a{
 .btn img{
     width: 20px;
     margin-left: 10px;
+}
 
+.shared-btn{
+    margin-left: 0.7rem;
 }
