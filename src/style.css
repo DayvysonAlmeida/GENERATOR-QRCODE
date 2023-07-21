@@ -107,3 +107,11 @@ a{
     display: flex;
     margin: 1rem 0;
 }
+
+@media (max-width: 512px){
+    body{
+        max-width: 100%;
+        padding: 10px;
+    }
+}
+
