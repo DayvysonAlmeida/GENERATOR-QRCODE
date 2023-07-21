@@ -113,5 +113,21 @@ a{
         max-width: 100%;
         padding: 10px;
     }
-}
+
+
+    #qr-code{
+    width: 95vw;
+    height: 95vw;
+   
+    }
+
+    #qr-code img, #qr-code canvas{
+    max-width: 95vw !important;
+    max-height: 95vw !important;
+    }
+
+    .btn{
+    min-width: unset;
+    }
+}    
 
